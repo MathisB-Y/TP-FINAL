@@ -1,0 +1,12 @@
+[
+    {
+        "titre": "Harry Potter",
+        "auteur": "J.K Rowling",
+        "isbn": "111"
+    },
+    {
+        "titre": "Le Petit Prince",
+        "auteur": "Antoine de Saint-Exupéry",
+        "isbn": "222"
+    }
+]
